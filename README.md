@@ -1,11 +1,13 @@
 <h1>0x1D. C - Binary trees</h1>
+<p>
 This project is about Binary Trees in C and data structures of other tree-type.
 
 All files were create and compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+</p>
 
-All files were linted for syntax and style with Betty
-Table of contents
-Files	Description
+<p>All files were linted for syntax and style with Betty</p>
+<h3>Table of contents</h3>
+<strong>Files	Description</strong>
 0-binary_tree_node.c	C function that creates a binary tree node
 1-binary_tree_insert_left.c	C function that inserts a node as the left-child of another node
 2-binary_tree_insert_right.c	C function that inserts a node as the right-child of another node
@@ -25,5 +27,5 @@ Files	Description
 16-binary_tree_is_perfect.c	C function that checks if a binary tree is perfect
 17-binary_tree_sibling.c	C function that finds the sibling of a node
 18-binary_tree_uncle.c	C function that finds the uncle of a node
-Authors
+<h3>Authors</h3>
 <li>Dikachi-official</li>
