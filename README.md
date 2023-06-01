@@ -76,3 +76,4 @@ All files were create and compiled on Ubuntu 20.04 LTS using gcc, using the opti
 </table>
 <h3>Authors</h3>
 <li>Dikachi-official</li>
+<li>hercjay</li>
