@@ -6,7 +6,7 @@ All files were create and compiled on Ubuntu 20.04 LTS using gcc, using the opti
 </p>
 
 <p>All files were linted for syntax and style with Betty</p>
-<h3>Table of contents</h3>
+<h3>Table of content</h3>
 <table>
   <thead>
     <tr>
